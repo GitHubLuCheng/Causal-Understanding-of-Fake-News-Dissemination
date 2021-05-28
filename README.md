@@ -1,7 +1,7 @@
 # Causal-Understanding-of-Fake-News-Dissemination
 Implementation of our KDD21 paper Causal Understanding of Fake News Dissemination on Social Media [1]
 
-![Temporally tweet counts and sampling rates](framework.png)
+![Framework](framework.PNG)
 
 ## Code usage
 1. Run the script [creat_bipartite.py](creat_bipartite.py) to creat the user-news bipartite graph.
