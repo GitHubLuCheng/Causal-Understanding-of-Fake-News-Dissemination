@@ -4,7 +4,7 @@ Implementation of our KDD21 paper Causal Understanding of Fake News Disseminatio
 ![Framework](framework.PNG)
 
 ## Code usage
-1. Run the script [creat_bipartite.py](creat_bipartite.py) to creat the user-news bipartite graph.
+1. Run the script [create_bipartite.py](create_bipartite.py) to creat the user-news bipartite graph.
 2. To get the News- and User-News-based propensity score estimation, run the script [pscore.py](pscore.py) and [pscore_ut.py](pscore_ut.py), respectively. 
 3. For the method BPRMF, simply run [BPRMF.py](BPRMF.py), [BPRMF_t.py](BPRMF_t.py), [BPRMF_ut.py](BPRMF_ut.py), and [BPRMF_neural.py](BPRMF_neural.py). They correspond to the biased model and unbiased models using news-, user-news-, and neural-network-based propensity score estimations. This also applies to the method NCF. 
 4. Note that the main programs (BPRMF.py or NCF.py) mostly are adapted from code for paper [Neural Graph Collaborative Filtering](https://arxiv.org/abs/1905.08108).
