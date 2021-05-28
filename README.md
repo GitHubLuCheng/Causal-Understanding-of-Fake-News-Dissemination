@@ -15,5 +15,5 @@ Implementation of our KDD21 paper Causal Understanding of Fake News Disseminatio
 * tensorflow == 1.14.0
 
 ### Reference
-> \[1\] [Lu Cheng](http://www.public.asu.edu/~lcheng35/), [Ruocheng Guo](https://www.public.asu.edu/~rguo12/), [Kai Shu](http://www.cs.iit.edu/~kshu/)and [Huan Liu](http://www.public.asu.edu/~huanliu/). Causal Understanding of Fake News Dissemination on Social Media. *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2021.
+> \[1\] [Lu Cheng](http://www.public.asu.edu/~lcheng35/), [Ruocheng Guo](https://www.public.asu.edu/~rguo12/), [Kai Shu](http://www.cs.iit.edu/~kshu/) and [Huan Liu](http://www.public.asu.edu/~huanliu/). Causal Understanding of Fake News Dissemination on Social Media. *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2021.
 
